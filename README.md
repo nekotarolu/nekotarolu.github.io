@@ -1,2 +1,2 @@
-## GOTO:wq
+## GOTO:
 https://nekotarolu.github.io/
